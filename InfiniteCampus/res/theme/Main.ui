@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" title="Infinite Campus API" >
+  <component type="Button" name="Button" cloudDestinationProperty="Button" snapToGrid="false" text="Button" verticalAlignment="4" >
+  </component>
+  <component type="TextArea" name="textbox1" cloudBoundProperty="text" cloudDestinationProperty="TextArea" text="Output" >
+  </component>
+</component>
